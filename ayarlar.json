@@ -1,16 +1,16 @@
 {
-  "prefix": "PREFİX",
-  "sahip": "BOT SAHİP ID",
-  "sunucuid": "SUNUCU ID",
-  "token": "BOT TOKEN",
+  "prefix": "nrv!",
+  "sahip": "1283434533470867529",
+  "sunucuid": "1283824537900683264",
+  "token": "MTI4ODUzNjcwODAxMDM0NDQ1OA.Gx5k8W.kaX73wTS-1HonBE73N5ZCtxOIfeeKmFv0b0f4I",
   "SCOP": [
     "https://www.googleapis.com/auth/spreadsheets",
     "https://www.googleapis.com/auth/drive",
     "https://www.googleapis.com/auth/drive.file"
   ],
-  "botkullanım": "BOT KULLANIM ROL ID",
+  "botkullanım": "1365759922834510026",
   "SERVİCES_FİLES": "./keys.json",
-  "SAMPLE_ID": "E TABLO SAMPLE ID",
+  "SAMPLE_ID": "19ozdor2J-zM4bAQOAFoDfY0PkzgRiWbK9F1kbejM9lM",
   "resulte": [
     "Scrim!B3:M22"
   ],
